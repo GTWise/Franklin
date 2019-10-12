@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "636872317836",
+    "firebase_url": "https://franklindeals-f6c0f.firebaseio.com",
+    "project_id": "franklindeals-f6c0f",
+    "storage_bucket": "franklindeals-f6c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636872317836:android:dd099b7718d0fbdef954a9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636872317836-l9sajio6biar14aq5eh8s8qindq9o6t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8gyFJ0LCPwNg4Y3aD811gZMnTMJN0f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636872317836-l9sajio6biar14aq5eh8s8qindq9o6t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
