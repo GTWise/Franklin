@@ -14,7 +14,7 @@ import android.view.MenuItem;
 
 public class ScrollingActivity extends AppCompatActivity {
 
-    //TEST
+    //TESTing
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
